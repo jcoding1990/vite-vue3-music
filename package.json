@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "vue-tsc --noEmit && vite build",
+=======
+    "build": "vite build",
+>>>>>>> 1351d2444a789fb88745fa0e07d409546f0a6897
     "serve": "vite preview"
   },
   "dependencies": {
@@ -12,8 +16,12 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.3.0",
     "@vue/compiler-sfc": "^3.0.5",
+<<<<<<< HEAD
     "typescript": "^4.3.2",
     "vite": "^2.4.4",
     "vue-tsc": "^0.2.2"
+=======
+    "vite": "^2.4.4"
+>>>>>>> 1351d2444a789fb88745fa0e07d409546f0a6897
   }
 }

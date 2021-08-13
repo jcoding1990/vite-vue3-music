@@ -2,4 +2,8 @@ node_modules
 .DS_Store
 dist
 dist-ssr
+<<<<<<< HEAD
 *.local
+=======
+*.local
+>>>>>>> 1351d2444a789fb88745fa0e07d409546f0a6897
